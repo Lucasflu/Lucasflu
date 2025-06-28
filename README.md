@@ -4,20 +4,15 @@
 
 ### 📊 GitHub Stats
 
-<p>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Lucasflu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    height="150"
   />
-
   <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasflu&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+    height="150"
   />
-</p>
+</div>
+
 
