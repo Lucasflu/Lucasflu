@@ -1,16 +1,23 @@
-## Hi there 👋
+#  🏁  Lucas Tavares
 
-<!--
-**Lucasflu/Lucasflu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Acadêmico de Ciência da Computação`**
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucasflu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasflu&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+  />
+</p>
+
